@@ -1,2 +1,2 @@
-# flask_sqlalchemy_rest
-REST API with Flask and SqlAlchemy
+# RESTful API with Flask and SQLAlchemy
+Simple RESTful API with Flask and SqlAlchemy supporting full CRUD operations
